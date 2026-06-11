@@ -3,6 +3,7 @@
 🎓 MCA Graduate
 
 💻 Tech Stack
+- Python
 - Java
 - JavaScript
 - HTML/CSS
