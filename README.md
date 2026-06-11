@@ -42,7 +42,7 @@
 
 * Active LeetCode and HackerRank practice
 
-📫 Connect With Me
+## 📫 Connect With Me
 
-* LinkedIn: linkedin.com/in/alex-antony-9586173b1
-* GitHub: github.com/alex0077-git
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alex-antony-9586173b1)
+- 💻 [GitHub](https://github.com/alex0077-git)
