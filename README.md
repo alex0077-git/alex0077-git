@@ -1,11 +1,8 @@
 # Hi, I'm Alex Antony 👋
-
 🎓 MCA Graduate
-
 💻 Software Developer passionate about AI, LLM Applications, Full-Stack Development, and Problem Solving.
 
 ## Tech Stack
-
 * Python
 * Java
 * JavaScript / TypeScript
@@ -14,37 +11,35 @@
 * FastAPI
 * Django
 * MySQL
+* ChromaDB (Vector DB / RAG)
 * Git & GitHub
 
 ## Featured Projects
 
-🚀 AI Interview Coach
+🧠 Second Brain
+* FastAPI + React Native (Expo) + Groq + ChromaDB
+* Bilingual AI learning app with RAG-based explanations, spaced repetition, and active-recall self-testing
 
+🚀 AI Interview Coach
 * LangChain + Groq + FastAPI + React
 * AI-powered interview preparation platform
 
 🚦 Smart Traffic Management System
-
 * YOLOv8 + OpenCV + Flask + React
 * Real-time vehicle detection and adaptive signal control
 
 📱 GameHub
-
 * React Native (Expo)
 * Cross-platform mobile application
 
 🔧 Autocare
-
 * Django-based vehicle service management system
 * Multi-role authentication system
 
 🧠 DSA & Problem Solving
-
 * Active LeetCode and HackerRank practice
 
 ## 📫 Connect With Me
-
 - 🌐 [Portfolio](https://portfolio-ten-roan-adlhx3sbsz.vercel.app/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alex-antony-9586173b1)
 - 💻 [GitHub](https://github.com/alex0077-git)
-
