@@ -1,5 +1,6 @@
 # Hi, I'm Alex Antony 👋
 🎓 MCA Graduate
+
 💻 Software Developer passionate about AI, LLM Applications, Full-Stack Development, and Problem Solving.
 
 ## Tech Stack
