@@ -6,11 +6,14 @@
 * Python
 * Java
 * JavaScript / TypeScript
+* Dart
 * React.js
 * React Native
+* Flutter
 * FastAPI
 * Django
 * MySQL
+* SQLite
 * ChromaDB (Vector DB / RAG)
 * Git & GitHub
 
@@ -20,13 +23,18 @@
 * FastAPI + React Native (Expo) + Groq + ChromaDB
 * Bilingual AI learning app with RAG-based explanations, spaced repetition, and active-recall self-testing
 
-🚀 AI Interview Coach
-* LangChain + Groq + FastAPI + React
-* AI-powered interview preparation platform
-
 🚦 Smart Traffic Management System
 * YOLOv8 + OpenCV + Flask + React
 * Real-time vehicle detection and adaptive signal control
+
+✅ Task Tracker
+* Flutter + SQLite (originally built with Django REST)
+* Offline, role-based task management app for managers and employees, with search, filters, overdue tracking, and a status dashboard
+* Ships as a Windows installer and an Android APK
+
+🚀 AI Interview Coach
+* LangChain + Groq + FastAPI + React
+* AI-powered interview preparation platform
 
 📱 GameHub
 * React Native (Expo)
